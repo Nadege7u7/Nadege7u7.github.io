@@ -1,0 +1,49 @@
+.container{
+    width: 90%;
+    height: 100%;
+}
+
+.header,.footer{
+    width: 90%;
+    height: 30px;
+    background-color:bisque; 
+    text-align: center;
+}
+
+.main-content{
+    width: 90%;
+    height: 1200px;
+    background-color: bisque;
+    margin: 10px;
+    text-align: center;
+    align-content: center;
+    
+}
+
+.box1{
+    width: 30%;
+    height: 400px;
+    background-color: rgb(129, 19, 96);
+    margin: 10px;
+    float: left;
+    margin-left: 100px;
+}
+
+.box2{
+    width: 40%;
+    height: 800px;
+    background-color: rgb(196, 0, 170);
+    margin: 10px;
+    float: left;
+
+}
+
+.box3{
+    width: 30%;
+    height: 400px;
+    background-color: rgb(129, 19, 96);
+    margin: 10px;
+    float: left;
+    margin-top: -400px;
+    margin-left: 100px;
+}
